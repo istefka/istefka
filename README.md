@@ -1,6 +1,4 @@
 
-# 👋 Welcome to My GitHub Profile
-
 ### Stefka Ivanova | Building Brands & Empowering People
 🌍 **Based in:** Amsterdam, The Netherlands  
 
