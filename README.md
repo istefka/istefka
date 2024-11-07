@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About me
-**Brand and Web Development Leader** with over 10 years of experience crafting powerful, impactful brands and scalable web solutions. As the founder of [Stefka.com](https://www.stefka.com), a freelance-led agency, I specialize in Strategic Brand Management, Creative Marketing, and Front-end Development utilizing ReactJS, TypeScript, Hubl (for HubSpot marketing solutions), HTML, CSS, JavaScript, and more. Based in Amsterdam, I collaborate with freelance partners to serve SaaS clients worldwide, including USA, Switzerland, Germany, Finland, Spain, The Netherlands, and The United Kingdom.
+**Brand and Web Development Leader** with over 10 years of experience crafting powerful, impactful brands and scalable web solutions. As the founder of [Stefka.com](https://www.stefka.com), a freelance-led agency, I specialize in Strategic Brand Management, Creative Marketing, and Front-end Development utilizing ReactJS, TypeScript, Hubl (for scalable HubSpot marketing solutions), HTML, CSS, JavaScript, and more. Based in Amsterdam, I collaborate with freelance partners to serve SaaS clients worldwide, including USA, Switzerland, Germany, Finland, Spain, The Netherlands, and The United Kingdom.
 
 Combining my passion for technology and creativity, I aim to create unique, engaging (and high-converting) experiences that drive results. Throughout my career, I've worn many hats: developer, designer, videographer, strategist, marketer and leader — all in service of delivering exceptional results and fostering innovation.
 
@@ -19,7 +19,7 @@ Combining my passion for technology and creativity, I aim to create unique, enga
 
 ### 🛠️ Skills & expertise
 - **Web Development**: ReactJS, TypeScript, Hubl, Python, SQL, HTML, CSS, JavaScript
-- **Creative Tools**: Adobe Creative Suite (Yes, every single app including Lightroom, Photoshop, InDesign, Illustrator, After Effects, Premier Pro, Audition, XD, etc.) , Figma, Sketch, Framer, CapCut
+- **Creative Tools**: Adobe Creative Suite (Yes, every single app including Lightroom, Photoshop, InDesign, Illustrator, After Effects, Premier Pro, Audition, XD, Reader (ex-Acrobat),  etc.) , Figma, Sketch, Framer, CapCut, Webflow, HubSpot (Yes, because HubSpot is also creative)
 - **Old-school Software Development**: Visual Basic, Borland/TurboPascal, C, ColdFision
 - **Marketing Strategy**: Brand building, PR, Social Media, Employer Branding, Strategy
 - **Leadership**: Building high-performing teams, mentoring, and leading creatives strategically
