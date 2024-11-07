@@ -1,10 +1,9 @@
 
 ## Stefka Ivanova | Building Brands & Empowering People
-🌍 **Based in:** Amsterdam, The Netherlands  
 
 ---
 
-### About Me
+### 🚀 About Me
 **Brand and Web Development Leader** with over 10 years of experience crafting powerful, impactful brands and scalable web solutions. As the founder of Stefka.com, a freelance-led agency, I specialize in Strategic Brand Management, Creative Marketing, and Front-end Development utilizing ReactJS, TypeScript, Hubl (for HubSpot marketing solutions), HTML, CSS, JavaScript, and more. Based in Amsterdam, I collaborate with freelance partners to serve SaaS clients worldwide, including USA, Switzerland, Germany, Finland, Spain, The Netherlands, and The United Kingdom.
 
 Combining my passion for technology and creativity, I aim to create unique, engaging (and high-converting) experiences that drive results. Throughout my career, I've worn many hats: developer, designer, videographer, strategist, marketer and leader — all in service of delivering exceptional results and fostering innovation.
