@@ -20,7 +20,7 @@ Combining my passion for technology and creativity, I aim to create unique, enga
 ### 🛠️ Skills & expertise
 - **Web Development**: ReactJS, TypeScript, Hubl, Python, SQL, HTML, CSS, JavaScript
 - **Creative Tools**: Adobe Creative Suite, Figma, Sketch, Framer, CapCut
-- **Archaic Software Development**: Visual Basic, Borland/TurboPascal, C, ColdFision
+- **Old-school Software Development**: Visual Basic, Borland/TurboPascal, C, ColdFision
 - **Marketing Strategy**: Brand building, PR, Social Media, Employer Branding, Strategy
 - **Leadership**: Building high-performing teams, mentoring, and leading creatives strategically
 
