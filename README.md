@@ -19,7 +19,7 @@ Combining my passion for technology and creativity, I aim to create unique, enga
 
 ### 🛠️ Skills & expertise
 - **Web Development**: ReactJS, TypeScript, Hubl, Python, SQL, HTML, CSS, JavaScript
-- **Creative Tools**: Adobe Creative Suite (Yes, every single app including Lightroom, Photoshop, InDesign, Illustrator, After Effects, Premier Pro, Audition, XD, Reader (ex-Acrobat),  etc.) , Figma, Sketch, Framer, CapCut, Webflow, HubSpot (Yes, because HubSpot is also creative)
+- **Creative Tools**: Adobe Creative Suite (Yes, every single app including Lightroom, Photoshop, InDesign, Illustrator, After Effects, Premier Pro, Audition, XD, Reader (ex-Acrobat),  etc.) , Figma, Sketch, Framer, CapCut, Webflow, HubSpot
 - **Old-school Software Development**: Visual Basic, Borland/TurboPascal, C, ColdFision
 - **Marketing Strategy**: Brand building, PR, Social Media, Employer Branding, Strategy
 - **Leadership**: Building high-performing teams, mentoring, and leading creatives strategically
