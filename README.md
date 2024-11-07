@@ -13,7 +13,7 @@ Combining my passion for technology and creativity, I aim to create unique, enga
 ### 🔥 I'm currently working on...
 **Thrilldash** is an innovative event listing app designed to be the go-to platform for discovering all events in Amsterdam (and later worldwide). By aggregating every local event into one seamless interface. Thrilldash offers users a comprehensive and curated experience as it thrives on its community-driven ethos, with dedicated moderators who handpick and verify each event to ensure quality and authenticity. From concerts and festivals to intimate workshops, cultural gatherings and business events, Thrilldash connects local residents and visitors to the city's vibrant event scene like never before.
 
-[www.thrilldash.com](https://www.thrilldash.com)
+[www.thrilldash.com](https://thrilldash.com)
 
 ---
 
