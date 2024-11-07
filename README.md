@@ -3,7 +3,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About me
 **Brand and Web Development Leader** with over 10 years of experience crafting powerful, impactful brands and scalable web solutions. As the founder of Stefka.com, a freelance-led agency, I specialize in Strategic Brand Management, Creative Marketing, and Front-end Development utilizing ReactJS, TypeScript, Hubl (for HubSpot marketing solutions), HTML, CSS, JavaScript, and more. Based in Amsterdam, I collaborate with freelance partners to serve SaaS clients worldwide, including USA, Switzerland, Germany, Finland, Spain, The Netherlands, and The United Kingdom.
 
 Combining my passion for technology and creativity, I aim to create unique, engaging (and high-converting) experiences that drive results. Throughout my career, I've worn many hats: developer, designer, videographer, strategist, marketer and leader — all in service of delivering exceptional results and fostering innovation.
@@ -17,7 +17,7 @@ Combining my passion for technology and creativity, I aim to create unique, enga
 
 ---
 
-### 🛠️ Skills & Expertise
+### 🛠️ Skills & expertise
 - **Web Development**: ReactJS, TypeScript, Hubl, Python, HTML, CSS, JavaScript
 - **Creative Tools**: Adobe Creative Suite, Figma, Sketch, Framer, CapCut
 - **Marketing Strategy**: Brand building, PR, Social Media, Employer Branding, Strategy
@@ -25,7 +25,7 @@ Combining my passion for technology and creativity, I aim to create unique, enga
 
 ---
 
-### 👩‍💻 Languages & Tools:
+### 👩‍💻 Languages & tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![APIs](https://img.shields.io/badge/-APIs-00457C?style=flat&logo=api&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
@@ -51,7 +51,7 @@ Combining my passion for technology and creativity, I aim to create unique, enga
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Connect with me
 - Explore my professional insights on [www.stefka.com](https://www.stefka.com)
 - Join the conversation and follow my insights on [LinkedIn](https://www.linkedin.com/in/excitement/).
 
