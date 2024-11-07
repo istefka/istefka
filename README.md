@@ -5,17 +5,17 @@
 ---
 
 ### About Me
-I am an experienced **Brand and Web Development Leader** with a solid background in tech and strategic creative marketing. With over a decade of expertise in building strong, impactful brands and scalable web solutions, I have successfully collaborated with global teams and clients in the U.S., Europe, and beyond.
+**Brand and Web Development Leader** with over 10 years of experience crafting powerful, impactful brands and scalable web solutions. As the founder of Stefka.com, a freelance-led agency, I specialize in Strategic Brand Management, Creative Marketing, and Front-end Development utilizing ReactJS, TypeScript, Hubl (for HubSpot marketing solutions), HTML, CSS, JavaScript, and more. Based in Amsterdam, I collaborate with freelance partners to serve SaaS clients worldwide, including USA, Switzerland, Germany, Finland, Spain, The Netherlands, and The United Kingdom.
 
-I combine my passion for technology and creativity to create unique, engaging experiences that drive results. Throughout my career, I've worn many hats: developer, designer, strategist, marketer and leader — all in service of delivering exceptional projects and fostering innovation.
+Combining my passion for technology and creativity, I aim to create unique, engaging (and high-converting) experiences that drive results. Throughout my career, I've worn many hats: developer, designer, videographer, strategist, marketer and leader — all in service of delivering exceptional results and fostering innovation.
 
 ---
 
 ### 🛠️ Skills & Expertise
-- **Web Development**: HTML, CSS, JavaScript, React, Python
-- **Creative Tools**: Adobe Creative Suite, Figma
+- **Web Development**: ReactJS, TypeScript, Hubl, Python, HTML, CSS, JavaScript
+- **Creative Tools**: Adobe Creative Suite, Figma, Sketch, Framer, CapCut
 - **Marketing Strategy**: Brand building, PR, Social Media, Employer Branding, Strategy
-- **Leadership**: Building, mentoring, and leading diverse creative teams.
+- **Leadership**: Building high-performing teams, mentoring, and leading creatives strategically
 
 ---
 
@@ -51,4 +51,4 @@ I combine my passion for technology and creativity to create unique, engaging ex
 
 --- 
 
-Feel free to reach out for collaboration, consultation, or creative partnerships. I am passionate about building not only innovative solutions but also strong, effective teams that achieve results. Let’s create something extraordinary!
+Feel free to reach out for collaboration, consultation, or creative partnerships. I am passionate about building innovative solutions and strong, effective teams that achieve results. Let’s create something extraordinary!
